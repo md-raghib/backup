@@ -1,0 +1,7 @@
+{
+    "AccessKey": "admin",
+    "SecretKey": "M3sh@dmin!",
+    "MaxRetries": "2",
+    "APIURL": "https://207.240.123.245/agility/api/"
+}
+

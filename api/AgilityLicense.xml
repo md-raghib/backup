@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SMLicense>
+<!--ServiceMesh generated license file. 
+Editing this file will result in an invalid license.-->
+<LicenseVersion>3.0</LicenseVersion>
+<Licensee>qa_unlimited_allmod_alladapters</Licensee>
+<Adapters>
+<Adapter>Amazon EC2 Cloud</Adapter>
+<Adapter>VMware vSphere Cloud</Adapter>
+<Adapter>vCloud Director</Adapter>
+<Adapter>Terremark VCloud Express</Adapter>
+<Adapter>Savvis</Adapter>
+<Adapter>Fujitsu</Adapter>
+<Adapter>KMIP</Adapter>
+<Adapter>hyperV</Adapter>
+<Adapter>OpenStack</Adapter>
+<Adapter>Azure</Adapter>
+</Adapters>
+<Modules>
+<Module>Store</Module>
+<Module>Designer</Module>
+<Module>Operations</Module>
+<Module>Planner</Module>
+<Module>Release Manager</Module>
+<Module>Admin</Module>
+<Module>Launch Pad</Module>
+<Module>Policy</Module>
+<Module>Reporting</Module>
+<Module>API</Module>
+</Modules>
+<IssueDate>
+<IssueDay>11</IssueDay>
+<IssueMonth>12</IssueMonth>
+<IssueYear>2012</IssueYear>
+</IssueDate>
+<ExpiryDate>
+<ExpiryDay>-1</ExpiryDay>
+<ExpiryMonth>-1</ExpiryMonth>
+<ExpiryYear>-1</ExpiryYear>
+</ExpiryDate>
+<NumberOfClients>-1</NumberOfClients>
+<MaxPermittedInstances>-1</MaxPermittedInstances>
+<ServerNodeLock>
+<Mask>0.0.0.0</Mask>
+<IPAddr>127.0.0.1</IPAddr>
+</ServerNodeLock>
+<DBQueryType>DEFAULT</DBQueryType>
+<DBQueryColName/>
+<Signature>ew3IKfLOV0XOxjsD+YfVonZMAeI=</Signature>
+</SMLicense>
